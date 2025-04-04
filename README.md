@@ -2,7 +2,7 @@
 
 This project implements a pipelined MIPS32 processor using **Verilog**, designed as part of a university course on organization of digital computers, EECS112L. The processor demonstrates a basic RISC-style architecture with a multi-stage pipeline.
 
-Note: This is a simplified version of a project developed for EECS112L at the University of California, Irvine. Some files have been omitted. To maintain academic integrity, only the most important components are shared.
+Note: This is a simplified version of a project developed for EECS112L at the University of California, Irvine. Many files have been omitted. To maintain academic integrity, only the most important components are shared.
 
 ### Key Features
 - Implements a **5-stage instruction pipeline**:
