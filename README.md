@@ -15,6 +15,8 @@ Note: This is a simplified version of a project developed for EECS112L at the Un
 - Handles basic **data hazards** and **pipeline forwarding**
 - Written using the **Verilog 2023.2 standard**
 
+A PDF of my modified lab report showcases testing the processor. It explains with examples certain functionalities of the processor such as forwarding and hazards.
+
 ### Project Structure
 ![image](https://github.com/user-attachments/assets/2f51157e-eb13-4a6b-a300-aaf02f1e6dbf)
 
